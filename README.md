@@ -1,5 +1,5 @@
-# This is Jyotiranjan padhi.i am a data scientist
-# Here i built Lenet-architechture from scratch.
+This is Jyotiranjan padhi.i am a data scientist
+Here i built Lenet-architechture from scratch.
 # Basic Introduction
 LeNet-5, from the paper Gradient-Based Learning Applied to Document Recognition, is a very efficient convolutional neural network for handwritten character recognition.
 http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
